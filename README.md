@@ -1,4 +1,4 @@
-```markdown
+
 # 🧑‍💻 Projeto CRUD de Usuários — Spring Boot
 
 Este projeto é uma aplicação Java desenvolvida com **Spring Boot** que implementa um **CRUD completo (Create, Read, Update, Delete)** de usuários.
